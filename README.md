@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h3>Hello world 👋</h3>
     <code>My name is Ronalds</code>
-    <a href="https://rwnalds.com"><h4>🔗 Check out my portfolio</h4></a>
+    <a href="https://rwnalds.com">🔗 Check out my portfolio</a>
     <br /> 
     <br /> 
 <!--     <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="200" /> -->
