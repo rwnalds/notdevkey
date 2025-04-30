@@ -1,12 +1,7 @@
 <div id="header" align="center">
-    <img src="https://github.com/Devkeystuff/devkey/blob/master/devkey-rotate.gif" width="200" />
-    <div id="badges">
-        <a href="https://www.youtube.com/channel/UCWDGpdPtIXArZZTJrSfXqmw">
-            <img src="https://shields.io/badge/youtube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube badge" />
-        </a>
-    </div>
     <h3>Hello world 👋</h3>
-    <code>I am devkey</code>
+    <code>My name is Ronalds</code>
+    <a href="https://rwnalds.com"><h4>🔗 Check out my portfolio</h4></a>
     <br /> 
     <br /> 
 <!--     <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="200" /> -->
@@ -71,12 +66,12 @@
 <div id="stats">
     <h2>My Github stats 📈</h2>
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=notdevkey&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Activity" height="200"          />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=rwnalds&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Activity" height="200"          />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=notdevkey&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Profile stats" height="200"          />
+        <img src="https://github-readme-stats.vercel.app/api?username=rwnalds&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Profile stats" height="200"          />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notdevkey&layout=compact&theme=dark&hide_border=true" alt="Profile stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwnalds&layout=compact&theme=dark&hide_border=true" alt="Profile stats" height="200" />
     </a>
 </div>
