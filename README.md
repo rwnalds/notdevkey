@@ -1,77 +1,69 @@
-<div id="header" align="center">
-    <h3>Hello world 👋</h3>
-    <code>My name is Ronalds</code>
-    <a href="https://rwnalds.com">🔗 Check out my portfolio</a>
-    <br /> 
-    <br /> 
-<!--     <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="200" /> -->
-</div>
+<!--
+  Ronalds Palacis — GitHub profile README
+  Paste the content below into the README.md of your `rwnalds/rwnalds` repo.
+  Widgets use GitHub username `rwnalds`. X handle is `rqnalds`. Theme: tokyonight.
+  NOTE: the capsule header + activity graph render on GitHub (image proxy), but a
+  LOCAL markdown preview (VS Code / Obsidian) often won't load them — push to the
+  repo to see the real thing.
+  The github-readme-stats "stats" + "top-languages" cards were removed because the
+  public instance is currently rate-limited (503). See the note Ronalds got to add
+  them back via a self-hosted instance.
+-->
 
-<div>
-    <h2>👨‍💻 About me</h2>
-    <p>I am a developer, designer and kinda music producer, always trying to step up my game</p>
-    <ul>
-        <li>💻 I'm working as a Full Stack developer for web and mobile apps</li>
-        <li>👾 In my free time, I'm actively learning Rust and Bevy, and getting more into Gamedev</li>
-        <li>📦 Making 3D models and exploring WebGPU & ThreeJS</li>
-        <li>🎵 Sometimes doing some sound design and music production on a good day</li>
-    </ul>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:565f89&height=200&section=header&text=Ronalds%20Palacis&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Founder%20%26%20full-stack%20developer&descSize=20&descAlignY=56" alt="Ronalds Palacis" />
+</p>
 
-<div id="icons">
-    <h2>:hammer_and_wrench: Here's the stuff I know summarized in icons</h2>
-    <h4>Coding</h4>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" width="40" height="40" alt="HTML"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" width="40" height="40" alt="CSS"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" width="40" height="40" alt="Sass"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" width="40" height="40" alt="Javascript"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" width="40" height="40" alt="Typescript"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Php" width="40" height="40" alt="Php"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40" alt="Python"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40" alt="C#"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" width="40" height="40" alt="Node"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40" alt="React"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" width="40" height="40" alt="Redux"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" width="40" height="40" alt="Angular"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40" alt="Flutter"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40" height="40" alt="Django"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" width="40" height="40" alt="MySQL"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" width="40" height="40" alt="Docker"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" width="40" height="40" alt="Nginx"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" width="40" height="40" alt=".NET Core"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="Digital Ocean" width="40" height="40" alt="Digital Ocean"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" width="40" height="40" alt="Material UI"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" width="40" height="40" alt="Dart"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40" alt="Java"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" alt="Git"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" width="40" height="40" alt="OpenCV"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" width="40" height="40" alt="NextJS"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" width="40" height="40" alt="Rust"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" width="40" height="40" alt="ThreeJS"/>&nbsp; 
-    </div>
-    <h4>Design & editing</h4>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40" alt="Figma"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="40" height="40" alt="Illustrator"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="40" height="40" alt="Photoshop"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Premiere Pro" width="40" height="40" alt="Premiere Pro"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="After Effects" width="40" height="40" alt="After Effects"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" width="40" height="40" alt="Blender"/>&nbsp; 
-    </div>
-</div>
+<p align="center">
+  <a href="https://klyiro.com"><img src="https://img.shields.io/badge/Klyiro-1a1b27?style=for-the-badge&labelColor=1a1b27" alt="Klyiro" /></a>
+  <a href="https://rwnalds.com"><img src="https://img.shields.io/badge/Portfolio-565f89?style=for-the-badge&labelColor=1a1b27" alt="Portfolio" /></a>
+  <a href="https://x.com/rqnalds"><img src="https://img.shields.io/badge/@rqnalds-1a1b27?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rwnalds&style=for-the-badge&color=565f89&labelColor=1a1b27&label=views" alt="views" />
+</p>
 
+---
 
-<div id="stats">
-    <h2>My Github stats 📈</h2>
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=rwnalds&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Activity" height="200"          />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=rwnalds&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Profile stats" height="200"          />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwnalds&layout=compact&theme=dark&hide_border=true" alt="Profile stats" height="200" />
-    </a>
-</div>
+I build the product **and** run the company that ships it.
+
+Right now that's **[Klyiro](https://klyiro.com)** — a done-for-you growth system for Shopify brands (WhatsApp reactivation, dynamic ads, and generative-engine optimization). I write the code, design it, and sell it. Doing all three teaches you more than doing any one.
+
+I taught myself to build software as a teenager, so when university came around I deliberately skipped CS and studied **Startup Management** instead — the point was to get good at turning code into a company, not just writing it.
+
+The rest of the time I'm building products around that thesis — retention tooling and AI sales agents — plus the occasional hardware or music-tech experiment. I like the hard, unfashionable parts: real-time rendering, systems programming, and the seam where design meets engineering.
+
+📍 Latvia · studying Startup Management · self-taught since my teens
+
+---
+
+## 🚀 What I'm building
+
+- **[Klyiro](https://klyiro.com)** — growth infrastructure for Shopify supplement brands. WhatsApp reactivation, dynamic creative, and GEO in one managed system.
+- **Morder** — WhatsApp retention SaaS for ecommerce. Merchants connect Shopify or WooCommerce and build automated WhatsApp playbooks; the flagship *Pattern Lab* turns a store's raw data into a visual map of where revenue is leaking. <!-- add live/repo link -->
+- **Madara** — AI sales operator. Finds dormant leads in Pipedrive, sends personalized reactivations, handles the replies, and briefs the sales team over WhatsApp. <!-- add repo link -->
+
+> _Also tinkering with:_ NFC-embedded vinyl collectibles for indie artists, real-time stage visuals, and Rust/Bevy on weekends.
+
+---
+
+## 🧰 Stack
+
+I care more about shipping than the logo, but for the curious:
+
+**Everyday** — TypeScript · React · Next.js · Node · Python · PostgreSQL · Prisma<br>
+**Also fluent** — Rust · Flutter / Dart · C# / .NET · PHP · Docker<br>
+**For craft** — WebGPU · Three.js · Bevy · Blender · Figma · a little sound design<br>
+**Building with** — Trigger.dev · n8n · Neon · the Claude API
+
+---
+
+## 📊 By the numbers
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=rwnalds&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rwnalds&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20graph" alt="activity graph" />
+
+---
+
+<p align="center"><i>Founder-mode: decide, approve, sell — and still commit on weekends.</i></p>
