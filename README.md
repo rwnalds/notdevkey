@@ -25,7 +25,7 @@
 
 I build the product **and** run the company that ships it.
 
-Right now that's **[Klyiro](https://klyiro.com)**, a done-for-you growth system for Shopify brands (WhatsApp reactivation, dynamic ads, and generative-engine optimization). I write the code, design it, and sell it. Doing all three teaches you more than doing any one.
+Right now that's **[Klyiro](https://klyiro.com)**, a done-for-you system that helps return dormant customers and maximize LTV. I write the code, design it, and sell it. Doing all three teaches you more than doing any one.
 
 I taught myself to build software as a teenager, so when university came around I skipped CS on purpose and studied **Startup Management** instead. The point was to get good at turning code into a company, not just writing it.
 
@@ -61,7 +61,3 @@ I care more about shipping than the logo, but for the curious:
 </p>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rwnalds&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20graph" alt="activity graph" />
-
----
-
-<p align="center"><i>Founder-mode: decide, approve, sell, and still commit on weekends.</i></p>
